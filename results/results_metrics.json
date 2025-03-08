@@ -1,0 +1,50 @@
+{
+    "task1": {
+        "test_macro_f1_task1": 0.6159991650125015,
+        "test_macro_precision_task1": 0.6337919609909112,
+        "test_macro_recall_task1": 0.6043286321958287
+    },
+    "task2": {
+        "test_macro_f1_task2": 0.7686465470688392,
+        "test_macro_precision_task2": 0.797981816852852,
+        "test_macro_recall_task2": 0.743496179588767
+    },
+    "overall": {
+        "test_overall_macro_f1": 0.6923228560406703,
+        "test_overall_macro_precision": 0.7158868889218816,
+        "test_overall_macro_recall": 0.6739124058922978
+    },
+    "performance": {
+        "test_loss": 0.010516426526010036,
+        "test_runtime": 11.2303,
+        "test_samples_per_second": 45.146,
+        "test_steps_per_second": 2.849
+    },
+    "categories_metrics": {
+        "test_f1_B-GREEN_ENERGY": 0.5723370429252782,
+        "test_f1_I-GREEN_ENERGY": 0.6871637202152191,
+        "test_f1_B-SUSTAINABILITY": 0.5439429928741092,
+        "test_f1_I-SUSTAINABILITY": 0.5949985628054039,
+        "test_f1_B-ENVIRONMENTAL_ISSUE": 0.5643564356435643,
+        "test_f1_I-ENVIRONMENTAL_ISSUE": 0.7420289855072465,
+        "test_f1_B-STAKEHOLDER": 0.5906313645621182,
+        "test_f1_I-STAKEHOLDER": 0.753677039789441,
+        "test_f1_B-ORGANIZATION": 0.4140969162995594,
+        "test_f1_I-ORGANIZATION": 0.6127583108715183,
+        "test_f1_B-CONFERENCE": 0.6118721461187213,
+        "test_f1_I-CONFERENCE": 0.7457627118644068,
+        "test_f1_B-POLICIES_AND_STRATEGIES": 0.4934210526315788,
+        "test_f1_I-POLICIES_AND_STRATEGIES": 0.6969410280668558
+    },
+    "sentiment_metrics": {
+        "test_f1_positive": 0.7364564987671715,
+        "test_precision_positive": 0.7373742123577541,
+        "test_recall_positive": 0.7355410666541583,
+        "test_f1_neutral": 0.7885249613593628,
+        "test_precision_neutral": 0.8001598401598402,
+        "test_recall_neutral": 0.777223591515128,
+        "test_f1_negative": 0.7809581810799837,
+        "test_precision_negative": 0.8564113980409617,
+        "test_recall_negative": 0.717723880597015
+    }
+}
